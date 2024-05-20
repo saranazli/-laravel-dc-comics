@@ -60,6 +60,6 @@ class ComicsPageController extends Controller
      */
     public function destroy(string $id)
     {
-        //
+        //mm
     }
 }

@@ -3,6 +3,6 @@
 
   <a href="{{route('home')}}">Home</a>
 
-  <a href="{{route('nuova-pagina')}}">nuova-pagina</a>
+  <a href="{{route('comics')}}">pagina dei comics</a>
   
 </header>

@@ -12,9 +12,9 @@ class PageController extends Controller
         return view('home');
 
     }
-    public function newPage(){
+    public function comics(){
 
-        return view('nuova-pagina');
+        return view('comics');
 
     }
 }
